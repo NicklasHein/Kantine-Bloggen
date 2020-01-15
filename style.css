@@ -1,17 +1,33 @@
 h1{
-  color: black;
+	color: black;
+font-family: fantasy;
+}
+h2{
+	color: rgb(63, 63, 63);
 }
 p{
-  color: black;
+	color: black;
 }
 body{
-  background-color: rgb(255, 255, 255);
-  color: black
+	background-color:rgb(255, 255, 255);
+	color:#555555;
 
-  font-family:serif;
-  font-size: 18px;
-  font-weight: normal;
+	font-family: serif;
+	font-size:18px;
+	font-weight: normal;
 
-  line-height: 1.6em;
-  margin: 5px;
+	line-height: 1.6em;
+	margin-top:0px;
+	margin-bottom: 100px;
 }
+
+.box-1{
+	background-color:rgb(243, 202, 32);
+	color: #000000;
+
+	border-right:3px #000000 solid;
+	border-left:3px #000000 solid;
+	border-top:3px #000000 solid;
+	border-bottom:3px #000000 solid;
+	border-radius: 15px;
+    }
