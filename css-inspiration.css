@@ -84,6 +84,7 @@ body{
 	text-decoration:underline;
 }
 
-	#main-footer{
-		text-align: center;
-	}
+#main-footer{
+    text-align: center;
+    background-color: lightskyblue;
+}
