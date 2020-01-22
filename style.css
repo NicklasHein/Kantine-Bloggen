@@ -8,6 +8,13 @@ h2{
 p{
 	color: black;
 }
+a{
+	text-decoration: none;
+	color:#000;
+}
+a:hover{
+	color: blue;
+}
 body{
 	background-color:rgb(255, 255, 255);
 	color:#555555;
@@ -51,13 +58,6 @@ body{
 	border-bottom:3px #000000 solid;
 	border-radius: 15px;
     }
-a{
-	text-decoration: none;
-	color:#000;
-}
-a:hover{
-	color: blue;
-}
 
 .container{
 	width: 80%;
