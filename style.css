@@ -1,8 +1,12 @@
 .container1{
 
 }
+body{
+	background-color: red;
+}
 .box1{
 	font-family: cursive;
 	border-radius: 10px;
 	width: 5px;
+	background-color: lightskyblue;
 }
