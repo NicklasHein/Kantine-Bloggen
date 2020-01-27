@@ -2,3 +2,16 @@ body{
 	background-color: rgb(213, 231,213);
 	color:#555555;
 }
+.container{
+
+}
+.box1{
+	border-style: solid;
+	border-top: 2px;
+	border-right: 2px;
+	border-bottom: 2px;
+	border-left: 2px;
+	border-color: red;
+	font-family: fantasy;
+	width: 80px;
+}
