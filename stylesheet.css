@@ -1,23 +1,4 @@
 body{
 	background-color: rgb(213, 231,213);
 	color:#555555;
-
-	font-family: serif;
-	font-size:18px;
-	font-weight: normal;
-
-	line-height: 1.6em;
-	margin-top:0px;
-	margin-bottom: 100px;
-}
-
-.container1{
-width: 80%;
-margin:auto;
-}
-}
-.box1{
-	font-family: sans-serif;
-	border: 2px;
-	border-color: black;
 }
