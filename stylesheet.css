@@ -6,10 +6,10 @@ body{
 
 }
 .box1{
+	font-family: sans-serif;
 	border-top: 2px;
 	border-right: 2px;
 	border-bottom: 2px;
 	border-left: 2px;
-	font-family: sans-serif;
 	width: 80px;
 }
