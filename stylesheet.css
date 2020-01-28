@@ -18,9 +18,9 @@ margin: auto;
 	background-color: rgb(255, 255, 255);
 	color: #000000;
 
-	border-top: 5px;
-	border-right: 5px;
-	border-bottom: 5px;
-	border-left: 5px;
-	border-radius: 15px;
+	border-top: 5px #000 solid;
+	border-right: 5px #000 solid;
+	border-bottom: 5px #000 solid;
+	border-left: 5px #000 solid;
+	border-radius: 15px #000 solid;
 }
