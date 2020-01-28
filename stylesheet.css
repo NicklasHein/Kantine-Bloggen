@@ -14,13 +14,12 @@ margin: auto;
 }
 .container2{
 	width: 80%;
-	margin: 80%;
+	margin: auto;
 
 }
 .box1 {
 	background-color: rgb(255, 255, 255);
 	color: #000000;
-
 
 	border: 3px #000 solid;
 	border-radius: 15px;
