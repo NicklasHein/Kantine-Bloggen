@@ -29,6 +29,22 @@ margin: auto;
 	font-style: italic;
 	text-decoration: underline;
 	text-transform: uppercase;
+	text-align: center;
 	letter-spacing: 0,2em;
-	word-spacing: 0,2;
+	word-spacing: 0,2em;
+}
+.box2{
+	background-color: rgb(255, 255, 255);
+	color: #000000;
+
+	border: 3px #000 solid;
+	border-radius: 15px;
+}
+.box2 h1{
+	font-weight:400;
+	font-style: oblique;
+	text-align: center;
+	letter-spacing: 0,1em;
+	word-spacing: 0,1em;
+
 }
