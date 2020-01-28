@@ -3,13 +3,16 @@ body{
 	color:#555555;
 }
 .container{
-
+width: 80%;
+margin: auto;
 }
 .box1{
-	font-family: sans-serif;
+	background-color: rgb(243, 202, 32)
+	color: #000;
+
 	border-top: 2px;
 	border-right: 2px;
 	border-bottom: 2px;
 	border-left: 2px;
-	width: 80%;
+	border-radius: 15px;
 }
