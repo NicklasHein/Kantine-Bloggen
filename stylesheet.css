@@ -1,8 +1,9 @@
 h1{
 	color: black;
-	font-family: fantasy;
+	font-family: sans-serif;
 }
 h2{
+	font-size: 15px;
 	color:black;
 }
 body{
