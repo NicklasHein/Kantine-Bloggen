@@ -22,6 +22,14 @@ body{
 	background-color: rgb(213, 231,213);
 	color:#555555;
 }
+/*box1*/
+.box1{
+	background-color: white;
+	color:white;
+
+	border:3px;
+	border-radius: 15px;
+}
 /*blocks*/
 .block{
 	float: left;
