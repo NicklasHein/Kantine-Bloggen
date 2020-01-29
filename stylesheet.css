@@ -22,7 +22,13 @@ body{
 	background-color: rgb(213, 231,213);
 	color:#555555;
 }
-
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: blue;
+}
 /*blocks*/
 .block{
 	float: left;
