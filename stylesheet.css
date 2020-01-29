@@ -32,7 +32,7 @@ a:hover{
 }
 /*blocks*/
 .block1{
-	float: left;
+	float:inherit;
 	width: 33%;
 	border:2px solid black;
 	border-radius: 15px;
