@@ -36,6 +36,8 @@ a:hover{
 	border:3px solid black;
 	border-radius: 15px;
 	background-color: white;
+	width:80%;
+	margin:auto;
 }
 
 /* Style the navigation menu */
