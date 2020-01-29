@@ -43,7 +43,7 @@ a:hover{
 .block2{
 	float: left;
 	width: 33%;
-	border:2px solid black;
+	border:2px solid red;
 	border-radius: 15px;
 	background-color: white;
 	width:32%;
