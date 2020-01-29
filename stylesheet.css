@@ -7,7 +7,17 @@ h1{
 	font-size: 80px;
 }
 	/*body*/
-
+div {
+	width: 300px;
+}
+	hr {
+			position: relative;
+			top: 20px;
+			border: none;
+			height: 12px;
+			background: black;
+			margin-bottom: 50px;
+	}
 body{
 	background-color: rgb(213, 231,213);
 	color:#555555;
