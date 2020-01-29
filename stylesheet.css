@@ -35,7 +35,8 @@ a:hover{
 	width: 33%;
 }
 .block{
-	border:5px solid black;
+	border:3px solid black;
+	border-radius: 15px;
 }
 
 /* Style the navigation menu */
