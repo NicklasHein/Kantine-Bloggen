@@ -5,9 +5,20 @@ h1{
 	font-family: sans-serif;
 	font-weight: 800
 }
-
+div {
+		width: 300px;
+}
+hr {
+		position: relative;
+		top: 20px;
+		border: none;
+		height: 12px;
+		background: black;
+		margin-bottom: 50px;
+}
 	/*body*/
 }
 body{
 	background-color: rgb(213, 231,213);
 	color:#555555;
+}
