@@ -33,10 +33,9 @@ a:hover{
 .block{
 	float: left;
 	width: 33%;
-}
-.block{
 	border:3px solid black;
 	border-radius: 15px;
+	background-color: white;
 }
 
 /* Style the navigation menu */
