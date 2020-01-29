@@ -10,48 +10,6 @@ h2{
 body{
 	background-color: rgb(213, 231,213);
 	color:#555555;
-/*containers*/
-}
-.container{
-width: 80%;
-margin: auto;
-}
-.container2{
-	width: 80%;
-	margin: auto;
-/*boxs1*/
-}
-.box1 {
-	background-color: rgb(255, 255, 255);
-	color: #000000;
-
-	border: 3px #000 solid;
-	border-radius: 15px;
-}
-.box1 h1{
-	font-weight: 800;
-	font-style: italic;
-	text-decoration: underline;
-	text-transform: uppercase;
-	text-align: center;
-	letter-spacing: 0,2em;
-	word-spacing: 0,2em;
-}
-/*box2*/
-.box2{
-	background-color: rgb(255, 255, 255);
-	color: #000000;
-
-	border: 3px #000 solid;
-	border-radius: 15px;
-}
-.box2 h1{
-	font-weight:400;
-	font-style: oblique;
-	text-align: center;
-	letter-spacing: 0,1em;
-	word-spacing: 0,1em;
-}
 .right {
   background-color:#e5e5e5;
   float:left;
