@@ -30,6 +30,11 @@ body{
 	border:3px;
 	border-radius: 15px;
 }
+/*container1*/
+.container1{
+	width: auto;
+	margin:auto;
+}
 /*blocks*/
 .block{
 	float: left;
