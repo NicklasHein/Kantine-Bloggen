@@ -4,7 +4,17 @@ h1{
 	text-decoration: underline;
 	font-family: sans-serif;
 	font-weight: 800
-	fontsize
+}
+div {
+		width: 300px;
+}
+hr {
+		position: relative;
+		top: 20px;
+		border: none;
+		height: 12px;
+		background: black;
+		margin-bottom: 50px;
 }
 	/*body*/
 }
