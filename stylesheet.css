@@ -33,7 +33,10 @@ a:hover{
 .block{
 	float: left;
 	width: 33%;
+	border-radius: 15px;
+	border:5px;
 }
+
 /* Style the navigation menu */
 .navbar {
   width: 100%;
