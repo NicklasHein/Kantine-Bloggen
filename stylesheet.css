@@ -39,6 +39,7 @@ a:hover{
 	background-color: white;
 	width:32%;
 	margin:auto;
+	border-spacing: 10px;
 }
 
 /* Style the navigation menu */
