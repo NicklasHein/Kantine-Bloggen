@@ -53,3 +53,41 @@ a:hover{
 	background-color: white;
 	margin:10px;
 }
+.block1{
+	border-collapse: separate;
+	border-spacing: 15px;
+}
+.block2{
+	border-collapse: separate;
+	border-spacing: 15px;
+}
+.block3{
+	border-collapse: separate;
+	border-spacing: 15px;
+}
+#navbar{
+  background-color:#333;
+  color:#fff;
+}
+
+#navbar ul{
+  padding:0;
+  list-style:none;
+  word-spacing:200px;
+}
+
+#navbar li{
+  display:inline;
+}
+
+#navbar a{
+  color:#fff;
+  text-decoration:none;
+  font-size:18px;
+  padding-right:15px;
+}
+
+.container {
+  width:60%;
+  margin:auto;
+  overflow:hidden;
