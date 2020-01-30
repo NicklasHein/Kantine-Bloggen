@@ -46,8 +46,13 @@ a:hover{
 	margin:10px;
 }
 .block3{
+<<<<<<< HEAD
 	float: right;
 	width: 33%;
+=======
+	float: left;
+	width: 30%;
+>>>>>>> 4659ac624107ab95a1dae1fc70d245907bc2b7d0
 	border:2px solid black;
 	border-radius: 5px;
 	background-color: white;
