@@ -45,7 +45,7 @@ a:hover{
 .block2{
 	border-collapse: separate;
 	border-spacing: 50px 15px;
-	float: left;
+	float: center;
 	width: 33%;
 	border:2px solid red;
 	border-radius: 15px;
@@ -56,7 +56,7 @@ a:hover{
 .block3{
 	border-collapse: separate;
 	border-spacing: 50px 15px;
-	float: left;
+	float: right;
 	width: 33%;
 	border:2px solid black;
 	border-radius: 15px;
