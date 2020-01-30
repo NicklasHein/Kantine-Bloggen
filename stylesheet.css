@@ -32,8 +32,6 @@ a:hover{
 }
 /*blocks*/
 .block1{
-	border-collapse: separate;
-	border-spacing: 50px 15px;
 	float:left;
 	width: 33%;
 	border:2px solid black;
@@ -43,8 +41,6 @@ a:hover{
 	margin:auto;
 }
 .block2{
-	border-collapse: separate;
-	border-spacing: 50px 15px;
 	float: center;
 	width: 33%;
 	border:2px solid red;
@@ -54,9 +50,7 @@ a:hover{
 	margin:auto;
 }
 .block3{
-	border-collapse: separate;
-	border-spacing: 50px 15px;
-	float: right;
+	float: left;
 	width: 33%;
 	border:2px solid black;
 	border-radius: 15px;
