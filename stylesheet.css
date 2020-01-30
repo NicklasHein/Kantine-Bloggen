@@ -41,7 +41,7 @@ a:hover{
 	margin:auto;
 }
 .block2{
-	float: center;
+	float:left;
 	width: 33%;
 	border:2px solid red;
 	border-radius: 15px;
