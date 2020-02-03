@@ -31,9 +31,50 @@ a:hover{
 /*blocks*/
 .block{
 	float:left;
+<<<<<<< HEAD
 	width:33,3%;
 
 
+=======
+	width: 33%;
+	border:2px solid black;
+	border-radius: 5px;
+	background-color: white;
+	margin:10px;
+}
+.block2{
+	float:left;
+	width: 33%;
+	border:2px solid red;
+	border-radius: 5px;
+	background-color: white;
+	margin:10px;
+}
+.block3{
+
+	float: right;
+	width: 33%;
+
+	float: left;
+	width: 30%;
+
+	border:2px solid black;
+	border-radius: 5px;
+	background-color: white;
+	margin:10px;
+}
+.block1{
+	border-collapse: separate;
+	border-spacing: 8px;
+}
+.block2{
+	border-collapse: separate;
+	border-spacing: 8px;
+}
+.block3{
+	border-collapse: separate;
+	border-spacing: 8px;
+>>>>>>> caabe0e78976de0d01150921c36e0da29629260e
 }
 
 #navbar{
