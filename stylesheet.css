@@ -29,42 +29,13 @@ a:hover{
 	color: red;
 }
 /*blocks*/
-.block1{
+.block{
 	float:left;
-	width: 33%;
-	border:2px solid black;
-	border-radius: 5px;
-	background-color: white;
-	margin:10px;
+	width:33,3%;
+
+
 }
-.block2{
-	float:left;
-	width: 33%;
-	border:2px solid red;
-	border-radius: 5px;
-	background-color: white;
-	margin:10px;
-}
-.block3{
-	float: left;
-	width: 33%;
-	border:2px solid black;
-	border-radius: 5px;
-	background-color: white;
-	margin:10px;
-}
-.block1{
-	border-collapse: separate;
-	border-spacing: 8px;
-}
-.block2{
-	border-collapse: separate;
-	border-spacing: 8px;
-}
-.block3{
-	border-collapse: separate;
-	border-spacing: 8px;
-}
+
 #navbar{
   background-color:#333;
   color:#fff;
@@ -90,6 +61,6 @@ a:hover{
 
 
 .container {
-  width:60%;
+  width:80%;
   margin:auto;
   overflow:hidden;
