@@ -6,8 +6,9 @@ body{
   line-height:1.6em;
   margin:0;
 }
-a: hover{
-  color: blue;
+a:hover {
+  background-color: blue;
+}
 }
 .container {
   width:60%;
