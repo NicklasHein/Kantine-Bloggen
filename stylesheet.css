@@ -7,9 +7,9 @@ body{
   margin:0;
 }
 a:hover {
-  background-color: blue;
+  color: blue;
 }
-}
+
 .container {
   width:60%;
   margin:auto;
