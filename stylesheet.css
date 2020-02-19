@@ -47,6 +47,7 @@ a: hover{
   color:#fff;
   border-style: none;
   font-size:20px;
+	cursor: pointer;
 }
 
 #main-footer{
