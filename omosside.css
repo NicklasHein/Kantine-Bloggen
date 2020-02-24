@@ -64,3 +64,10 @@ body{
 .center {
   text-align: center;
 }
+#main-footer{
+  background-color:#333;
+  color:#fff;
+  text-align:center;
+  padding:20px;
+  margin:40px;
+}
