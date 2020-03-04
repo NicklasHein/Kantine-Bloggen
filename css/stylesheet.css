@@ -59,7 +59,7 @@ body{
   margin:40px;
 }
 #showcase{
-  background-image:url('billeder/showcase12.jpg');
+  background-image:url('..billeder/showcase12.jpg');
   background-position: center;
   background-repeat: no-repeat;
   height: 500px;
