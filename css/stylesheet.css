@@ -68,3 +68,6 @@ body{
   font-size:60px;
   text-align: center;
 }
+div{
+  background-image: url('billeder/showcase12.jpg');
+}
