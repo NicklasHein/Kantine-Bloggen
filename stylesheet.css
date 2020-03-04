@@ -46,7 +46,7 @@ body{
 #navbar button{
   background-color:#333;
   color:#fff;
-  border-style: none;
+  border-style:none;
   font-size:20px;
 	cursor: pointer;
 }
@@ -63,6 +63,7 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   height: 500px;
+	background-color: #333;
 }
 #header2{
   font-size:60px;
