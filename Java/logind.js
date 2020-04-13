@@ -23,10 +23,10 @@ function getInfo() {
     var password = document.getElementById('password').value
 
     for(var i = 0; i < objPeople.length; i++) {
-        // check is user input matches username and password of a current index of the objPeople array
+        // tjekker brugerens input matcher brugernavn og adgangskode
         if(username == objPeople[i].username && password == objPeople[i].password) {
             console.log(username + " is logged in!!!")
-            // stop the function if this is found to be true
+            // stopper funktionen hvis den ikke er true
             return
         }
     }
